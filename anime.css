@@ -1,0 +1,271 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#page{
+    width: 1088px;
+    height: 3079.3px;
+    color: #FFC119;
+    background-color: #1b1b1b;
+    margin-left: 172.4px;
+    padding: 0px 20px 0px 20px;
+} 
+body{
+    background-color: #000;
+}
+#k{
+    color: #a1a1a1;
+    text-decoration: none;
+}
+#hh{
+    color: #a1a1a1;
+    padding: 10px 0px 0px 0px;
+}
+#contact{
+    display: inline-block;
+   
+    margin-left: 600px;
+    text-decoration: none;
+}
+#login{
+    color: #a1a1a1;
+    display: inline-block;
+    margin-left: 250px ;
+}
+#navbox{
+    display:inline-flex;
+    font-size: 18px;
+    padding-right: 50px;
+
+}
+.nav{
+    margin: 15px 15px 15px 25px;
+     color: white; 
+     text-decoration: none;
+
+}
+.nav:hover{
+    content:none;
+    color: #FFC119;
+}
+#key{
+    display: inline-block;
+    border: 2px white;
+    height:28px ;
+    width: 286px;
+}
+#img1{
+    display: inline-block;
+    padding: 0px 40px 0px 40px;
+}
+#nav1{
+    display: inline-block;
+}
+#search{
+    height: 28px;
+    width: 286px;
+    background-color: #1b1b1b;
+    border-width: 1px ;
+    border-color:white;
+    border-radius: 2px;
+    color: white;
+}
+#anime{
+    display: inline-block;
+    height: 2798.7px;
+    width: 1048px;
+    color: #FFC119;
+    font-size: 13px;
+    border-width: 2px;
+    border-color:white ;
+    display: inline-block;
+}
+
+#naruto{
+    width:726.4px ;
+    height: 1674.5px;
+    font-size: 13px;
+    border-width: 2px;
+    border-color:white ;
+    display: inline-block;
+}
+#minato{
+    width: 320px;
+    height: 497.9px;
+    font-size: 13px;
+    border-width: 2px;
+    border-color:white ;
+    display:inline-block;
+    margin-top: 15px;
+    margin-left: 20px;
+    padding-right: -20px;
+}
+
+#subnav{
+    width: 726.4px;
+    height: 38.8px;
+    background-color: #FFC119;
+    color: #000;
+}
+#subnav2{
+    width: 325px;
+    height: 38.8px;
+    background-color: #FFC119;
+    color: #000;
+}
+#names{
+    height: 482.6px;
+    width: 296.4px;
+}
+#name ul{
+    padding-left: 20px;
+    flex: 1;
+}
+#links{
+    width: 726.4px;
+    height: 1469.5px;
+    color: #FFC119;
+   
+    
+}
+.name1{
+    text-decoration: none;
+}
+#link a img{
+    width: 164px;
+    height: 270px;
+}
+#list{
+   padding-left: 15px;
+
+}
+.shortlist{
+    padding: 10px 0px 0px 0px;
+    color: #FFC119;
+    text-decoration: none;
+    list-style: none;
+}
+.shortlist:hover{
+    color: white;
+}
+.epi{
+   
+
+    color: white;
+    text-decoration: none;
+}
+.nameanime{
+    display: inline-block;
+    padding: 10px 0px 10px 0px;
+    width: 163.73px;
+    height: 34px;
+    margin: 8px 0px 8px 0px;
+    text-align: center;
+    color: #FFC119;
+    text-decoration: none;
+}
+.nameanime:hover{
+    color: white;
+}
+.imglist{
+    width: 163.76px;
+    height: 310px;
+    display: inline-block;
+    margin: 20px 0px 0px 10px;
+}
+.imglist:hover{
+    -ms-zoom-animation: default;
+}
+#har{
+    list-style: none ;
+    border: 2px #fff;
+}
+.gogo{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+#sakura{
+    width: 320px;
+    height: 645px;
+    font-size: 13px;
+    border-width: 2px;
+    border-color:white ;
+    display:inline-block;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding-right: -20px;
+}
+#subnav3{
+    width: 325px;
+    height: 38.8px;
+    background-color: #FFC119;
+    color: #000;
+}
+#right{
+    display: inline-block;
+    height: 2577.8px;
+    width: 300px;
+}
+#left{
+    display: inline-block;
+    height: 2798.7px;
+    width:728px ;
+}
+#copied:hover{
+    color: #fff;
+}
+#copied{
+    text-decoration: none;
+    color: #ffc119; 
+    list-style: none;
+    margin: 10px 0px 0px 10px;
+}
+.copy{
+    text-decoration: none;
+    color: #ffc119;
+}
+.copy:hover{
+    color: #fff;
+}
+#neji{
+    width: 320px;
+    height: 650px;
+    font-size: 13px;
+    border-width: 2px;
+    border-color:white ;
+    display:inline-block;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding-right: -20px;
+
+}
+#subnav4{
+    width: 325px;
+    height: 38.8px;
+    background-color: #FFC119;
+    color: #000;
+}
+.biglings{
+    border-right: 2px #fff;
+    display: inline-block;
+    color:#ffc119;
+    text-decoration: none;
+    width: 149.2px;
+    height: 23.2px;
+    text-align:center ;
+}
+.bog{
+    display: inline-block;
+    width: 120.4px;
+    height: 15.2px;
+    color:#ffc119;
+    text-decoration: none;
+    font-size: 13px;
+    border-right: 2px #fff;
+    text-align: left;
+}
+#id{
+    list-style: none;
+    margin-top: 20px;
+}
